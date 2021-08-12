@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Amaniya-31/Assignment-01/static/css/main.41cdbb13.chunk.css",
+    "main.js": "/Amaniya-31/Assignment-01/static/js/main.d890139a.chunk.js",
+    "main.js.map": "/Amaniya-31/Assignment-01/static/js/main.d890139a.chunk.js.map",
+    "runtime-main.js": "/Amaniya-31/Assignment-01/static/js/runtime-main.56ca23ef.js",
+    "runtime-main.js.map": "/Amaniya-31/Assignment-01/static/js/runtime-main.56ca23ef.js.map",
+    "static/js/2.5e4db064.chunk.js": "/Amaniya-31/Assignment-01/static/js/2.5e4db064.chunk.js",
+    "static/js/2.5e4db064.chunk.js.map": "/Amaniya-31/Assignment-01/static/js/2.5e4db064.chunk.js.map",
+    "static/js/3.18e2a8dc.chunk.js": "/Amaniya-31/Assignment-01/static/js/3.18e2a8dc.chunk.js",
+    "static/js/3.18e2a8dc.chunk.js.map": "/Amaniya-31/Assignment-01/static/js/3.18e2a8dc.chunk.js.map",
+    "index.html": "/Amaniya-31/Assignment-01/index.html",
+    "static/css/main.41cdbb13.chunk.css.map": "/Amaniya-31/Assignment-01/static/css/main.41cdbb13.chunk.css.map",
+    "static/js/2.5e4db064.chunk.js.LICENSE.txt": "/Amaniya-31/Assignment-01/static/js/2.5e4db064.chunk.js.LICENSE.txt",
+    "static/media/Paypal.d8cffc4f.png": "/Amaniya-31/Assignment-01/static/media/Paypal.d8cffc4f.png",
+    "static/media/landimg.1ba1cf1f.png": "/Amaniya-31/Assignment-01/static/media/landimg.1ba1cf1f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56ca23ef.js",
+    "static/js/2.5e4db064.chunk.js",
+    "static/css/main.41cdbb13.chunk.css",
+    "static/js/main.d890139a.chunk.js"
+  ]
+}
