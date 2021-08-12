@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
 .App {
   text-align: center;
 }
@@ -35,4 +37,132 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.oncoin {
+  text-decoration: none;
+  color:  black !important;
+}
+
+.page-tp-mgn {
+  margin-top: 25px !important;
+  margin-left: 25px !important;
+}
+
+/* all text css*/
+.text-brand {  
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 32px;
+}
+.text-link {
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px !important;
+  color: black;
+  margin-top: 200px !important;  
+  padding: 15px !important;
+  padding-top: 25px !important;
+}
+
+/*float style*/
+.float-left {
+  float: left;
+}
+.float-right {
+  float: right;
+}
+
+/* In-line Navs */
+.nav-line {
+  display: inline-block;
+}
+
+/* margin for right navs */
+.margin-right {
+  margin-right: 30px !important;
+}
+
+/* Sign-up btn */
+.su-btn {
+  background-color: black;
+  color: white;
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+  border: none;
+}
+
+.land {
+  /* margin: 150px !important; */
+  margin-top: 100px !important;
+  margin-right: 60px !important;
+  margin-left: 200px !important;
+}
+
+.land-txt {
+  text-align: justify;
+  font-family: 'Roboto', sans-serif;
+}
+
+.topic {
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  width: 350px !important;
+  text-align: left;
+}
+
+.content {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  width: 250px !important;
+  text-align: left;
+}
+
+.pad-right {
+  padding-right: 50px !important;
+}
+
+.pad-top {
+  padding-top: 40px !important;
+}
+
+.display-inline {
+  display: inline-block;
+}
+
+.ar-btn {
+  background-color: black;
+  color: white;
+  border: none;
+  height: 35px;
+  width: 35px;
+}
+
+.bg-icn {
+  background-color: #000 !important;
+  color: white !important;
+  width: 40px;
+  height: 40px;
+  border: none;
+}
+
+.pad-left {
+  padding-left: 50px !important;
+}
+
+.divider {
+  width: 330px;
+  margin-top: 50px !important;
+}
+
+.pay-img {
+  padding-top: 20px !important;
+  padding-left: 40px !important;
+}
+
+.pay-2 {
+  padding-left: 40px !important;
 }
